@@ -9,7 +9,7 @@
 Mission: Log hostname from a computer.
 
 # AgentHex: Logging Machine
-<img width="1300" height="808" alt="image" src="https://github.com/user-attachments/assets/766d1f33-78e5-4dc3-b9e5-8da0c88b6506" />
+<img width="1455" height="802" alt="image" src="https://github.com/user-attachments/assets/5fdd9b9a-7879-4ad1-b916-619cfef273ea" />
 <img width="1411" height="769" alt="image" src="https://github.com/user-attachments/assets/9ec0ecd5-3560-4e6f-aa30-9c45028fc36c" />
-
 Mission: Log IP addresses from 3 computers, then get hostname, current user and MAC address of a computer
+
