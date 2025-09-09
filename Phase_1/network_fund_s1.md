@@ -17,6 +17,4 @@
 ## Minigame: Netmatch
 <img width="1336" height="735" alt="image" src="https://github.com/user-attachments/assets/b2ff0bac-6123-4752-863d-89f39f1f615e" />
 <img width="1589" height="694" alt="image" src="https://github.com/user-attachments/assets/96a7ead3-f679-4dd9-bbdc-7c126faa7ef4" />
-Mission: Drag router(s) and computer(s) to their respective place based on the IP addresses. <br> Got 1st place heh heh >:)amp;
-
-
+Mission: Drag router(s) and computer(s) to their respective place based on the IP addresses. <br> Got 1st place heh heh >:).
